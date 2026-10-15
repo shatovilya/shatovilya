@@ -33,11 +33,12 @@ Automation-focused engineer with experience in containerization, monitoring stac
 
 ## 📌 Featured Repositories
 
-| Project | Description | ⭐ |
-|---|---|---|
-| [freeradius-samba4-dc](https://github.com/shatovilya/freeradius-samba4-dc) | FreeRADIUS + Samba 4 AD integration | 10 |
-| [zabbix-automation](https://github.com/shatovilya/zabbix-automation) | Zabbix automation via PyZabbix API | 2 |
-| [wiki.js-docker](https://github.com/shatovilya/wiki.js-docker) | Wiki.js DocOps deployment in Docker | 1 |
+| Project | Description |
+|---|---|
+| [dns-dig-docker](https://github.com/shatovilya/dns-dig-docker) | FastAPI DNS diagnostics in Docker with Prometheus metrics |
+| [freeradius-samba4-dc](https://github.com/shatovilya/freeradius-samba4-dc) | FreeRADIUS + Samba 4 AD integration |
+| [zabbix-automation](https://github.com/shatovilya/zabbix-automation) | Zabbix automation via PyZabbix API |
+| [wiki.js-docker](https://github.com/shatovilya/wiki.js-docker) | Wiki.js DocOps deployment in Docker |
 
 ---
 
@@ -54,5 +55,6 @@ Automation-focused engineer with experience in containerization, monitoring stac
 ---
 
 <div align="center">
-<sub>📅 On GitHub since 2019 · Updated June 2026</sub>
+<sub>📅 On GitHub since 2020 · Updated October 2026</sub>
 </div>
+
